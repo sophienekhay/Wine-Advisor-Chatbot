@@ -7,3 +7,10 @@ This is a chatbot of recommendatory type to help in the selection of wines.
 Instruments:
 * nltk
 * scikit-learn
+
+Methods:
+* TF-IDF
+* Cosine similarity
+
+Database:
+* The "Wine Reviews" database is taken from the data science and machine learning community Kaggle.
