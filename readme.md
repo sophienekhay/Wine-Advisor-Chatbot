@@ -4,4 +4,4 @@ This is a chatbot of recommendatory type to help in the selection of wines.
  
 Instruments:
 * nltk
-* sklearn
+* scikit-learn
